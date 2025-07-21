@@ -1,1 +1,2 @@
 # Project-Flow
+Project Flow is an advanced project management application designed to help teams collaborate, track progress, and deliver projects successfully. It provides a platform to organize, track, and complete projects by allowing users to create projects, add team members, and monitor progress through visual dashboards. The application is aimed at teams of all sizes and focuses on streamlining workflows and improving productivity.
