@@ -1,5 +1,3 @@
-// Combined JavaScript for both pages
-
 // Page navigation functions
 function showLandingPage() {
     document.getElementById('landing-page').classList.add('active');
